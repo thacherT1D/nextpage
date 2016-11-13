@@ -1,4 +1,4 @@
-TensorFlow is the Google built open source software library for machine intelliegence.
+TensorFlow is an open source software library for machine intelliegence.
 
 Per Google: TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 
