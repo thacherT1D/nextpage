@@ -9,7 +9,7 @@ name: Thacher
 description: Web Developer and Patient Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/thachert1d/thachert1d.github.io/master/images/informal.png
+avatar: https://raw.githubusercontent.com/thachert1d/thachert1d.github.io/master/images/informal.jpeg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: thachert1d/thachert1d.github.io
+  github: thachert1d/
   instagram:
   linkedin:
   pinterest:
