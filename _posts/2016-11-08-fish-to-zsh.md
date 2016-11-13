@@ -1,4 +1,4 @@
-Steps for transitioning your terminal to zsh - fish is great, but some people like other options
+Steps for transitioning your terminal to zsh - fish is great, but some people like other options.
 
 Install [iTerm2](https://www.iterm2.com/) -- accept and install any available updates
 
