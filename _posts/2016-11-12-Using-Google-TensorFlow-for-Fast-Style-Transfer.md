@@ -1,5 +1,3 @@
-## Using TensorFlow for Fast Style Transfer
-
 Directions for using TensorFlow with the Fast-Style-Transfer repo.
 
 This aritcle assumes that you followed the setup directions found [here](https://gist.github.com/thacherT1D/0103f69cb409385b80fb717419eb2ffc) OR that you have python correctly setup on your machine with an anaconda environment that has TensorFlow installed.
