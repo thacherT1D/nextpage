@@ -80,8 +80,7 @@ Next you can test whatever you want, for example — the [small python code segm
 
 ***Copy and Paste this entire script into your jupyter notebook file***
 
-```sh
-
+```
 import tensorflow as tf
 import numpy as np
 
@@ -115,7 +114,6 @@ for step in range(201):
         print(step, sess.run(W), sess.run(b))
 
 # Learns best fit is W: [0.1], b: [0.3]
-
 ```
 
 In the top menu bar go to cell > run all — and your result will be calculated in the bottom of the notebook.
