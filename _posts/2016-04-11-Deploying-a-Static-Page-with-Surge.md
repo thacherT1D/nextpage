@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      "Using Surge"
+subtitle:   "Deploy a basic web page from your command line"
+date:       2016-06-10 12:00:00
+author:     "Thacher"
+header-img:
+categories: basics
+---
+
 Steps to deploy a basic web page with surge right from your command line.
 
 This article assumes that you have a basic working knowledge of node and that you know how to use the node package manager (npm).
